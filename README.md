@@ -43,9 +43,7 @@ This project focuses on:
   - Sales trends dashboard
   - Product category analysis
   - Customer feedback visualization
-- **Python**: For data cleaning and preprocessing tasks.
-- **Pandas & NumPy**: For efficient data manipulation and calculations.
-- **Matplotlib & Seaborn**: For exploratory data visualizations and trend analysis.
+## 🔍 Dashboard Preview 
 ![Power BI Dashboard Example](![blinkit ss](https://github.com/user-attachments/assets/02a4aec5-d212-4394-8809-08ae3d8f0451)
 )
 
