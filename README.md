@@ -35,6 +35,7 @@ This project focuses on:
 ├── Scripts/
 │   ├── data_cleaning.ipynb # Jupyter notebook for data preprocessing
 ├── README.md             # Project documentation
+```
 
 ## 🛠️ Tools & Technologies
 
